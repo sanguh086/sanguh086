@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sangamesh_hadapad
+- 👋 Hi, I’m sangamesh hadapad
 - 👀 I’m interested in web development mainly frontend
 - 🌱 I’m currently learning basics of web development
 - 📫 How to reach me sanguh086@gmail.com and +918431761383
